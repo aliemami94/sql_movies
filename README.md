@@ -15,4 +15,4 @@ The project highlights **relational schema design**, **complex queries**, and **
 ---
 
 ## 📂 Project Structure
-![Alt text](sql_movies/rentals_2006.png)
+![Alt text](aliemami94/sql_movies/rentals_2006.png)
